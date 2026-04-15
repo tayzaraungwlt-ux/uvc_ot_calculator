@@ -1,2 +1,2 @@
 Testing APK.
-Responsibility is upon yhe user.
+Responsibility is upon the user.
